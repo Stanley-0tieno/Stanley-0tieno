@@ -56,14 +56,14 @@ const stanley = {
 
 <div align="center">
 <a href="https://github.com/stanleyotieno1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stanleyotieno1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleyotieno1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stanley-0tieno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanley-0tieno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/stanleyotieno1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stanleyotieno1&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stanley-0tieno&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </a>
 </div>
 
@@ -71,7 +71,7 @@ const stanley = {
 
 <div align="center">
 <a href="https://github.com/stanleyotieno1">
-  <img src="https://github-profile-trophy.vercel.app/?username=stanleyotieno1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=stanley-0tieno&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 </a>
 </div>
 
